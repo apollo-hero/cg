@@ -7,7 +7,7 @@ To develop a responsive single page application (SPA) that mimics a real-world c
 
 1.	The SPA will consist of 3 routes (/home, /about, /candle)
 
-1.	For wireframes and functionality, see Balsamiq file [**cg_fl_wireframes1**](https://github.com/ksivane/cg/blob/master/cg_fl_wireframes1.bmpr)
+1.	For wireframes and functionality, see [**Balsamiq**](https://balsamiq.com/wireframes/desktop/) file [**cg_fl_wireframes1**](https://github.com/ksivane/cg/blob/master/cg_fl_wireframes1.bmpr)
 
 1.	For the /candle page, please use existing resources at [**codepen**](https://codepen.io/Shorina/pen/VbepBe). The developer needs to develop additional logic to control the candle and flame attributes as per requirements in the wireframes.
 
@@ -21,7 +21,7 @@ To develop a responsive single page application (SPA) that mimics a real-world c
     - For mobile devices, the app will be packaged with [**PhoneGap**](https://phonegap.com/) to run on Android 8.0 and above, and iOS 11 and above.
 
 ## Others:
-- Wireframes are guidelines only. If the developer feels certain UI components can be changed or overall UI/UX can be improved, he/she is feel to recommend such modifications. Please use free edition of [**Balsamiq**](https://balsamiq.com/wireframes/desktop/) to wireframe the modifications.
+- Wireframes are guidelines only. If the developer feels certain UI components can be changed or overall UI/UX can be improved, he/she is feel to recommend such modifications. Please use free edition of Balsamiq to wireframe the modifications.
 - App does not use any server-side support, so backend is not needed.
 
 ## Deliverables
