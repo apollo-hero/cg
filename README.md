@@ -7,7 +7,7 @@ To develop a responsive single page application (SPA) that mimics a real-world c
 
 1.	The SPA will consist of 3 routes (/home, /about, /candle)
 
-1.	For wireframes and functionality, see Balsamiq file **cg_fl_wireframes1**
+1.	For wireframes and functionality, see Balsamiq file [**cg_fl_wireframes1**](https://github.com/ksivane/cg/blob/master/cg_fl_wireframes1.bmpr)
 
 1.	For the /candle page, please use existing resources at [**codepen**](https://codepen.io/Shorina/pen/VbepBe). The developer needs to develop additional logic to control the candle and flame attributes as per requirements in the wireframes.
 
