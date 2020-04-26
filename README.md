@@ -38,7 +38,7 @@ The project is divided into three milestones.
 - Source codes, static assets and other resources of the application
 - Source codes with comments & basic documentation
     
-**Milestone III**
+**Milestone III** (Optional, can be discussed after M1 and M2 are complete)
 - Import project into PhoneGap
 - Demo the application on Android device (using [**PhoneGap developer app**](http://docs.phonegap.com/references/developer-app/)) as per agreed design and functionality
 - Source codes, static assets and other resources of the application
