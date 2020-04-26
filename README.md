@@ -27,19 +27,22 @@ To develop a responsive single page application (SPA) that mimics a real-world c
 - App does not use any server-side support, so backend is not needed.
 
 ## Deliverables
-The project is divided into two phases
+The project is divided into three milestones.
 
-**Phase I**
+**Milestone I**
+- Developer to use codepen to demonstrate at-least one feature of the candle. (e.g. Changing the flame size of the candle from small to medium to big)
+
+**Milestone II**
 - Working application as per agreed design and functionality
-- Demo the application on target browsers.
+- Demo the application on target browsers
+- Source codes, static assets and other resources of the application
+- Source codes with comments & basic documentation
     
-**Phase II**
+**Milestone III**
 - Import project into PhoneGap
 - Demo the application on Android device (using [**PhoneGap developer app**](http://docs.phonegap.com/references/developer-app/)) as per agreed design and functionality
 - Source codes, static assets and other resources of the application
 - Source codes with comments & basic documentation
 
 ## Timeline
-Phase I : 2 weeks
-
-Phase II: 1 week
+Total duration: 2 weeks
